@@ -2,7 +2,9 @@
 
 <br><br>
 
-![Academy Logo](edtech.jpg) <!-- Replace link_to_logo.png with the actual logo image of the Academy -->
+<div style="text-align: center;">
+  <img src="edtech.jpg" alt="Image Description" />
+</div>
 
 <br><br>
 
