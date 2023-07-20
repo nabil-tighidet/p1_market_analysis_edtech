@@ -10,7 +10,7 @@
 
 ## Description du Projet
 
-Bienvenue dans le référentiel GitHub du projet d'expansion internationale de notre start-up de EdTech, nommée Academy ! Notre entreprise propose des contenus de formation en ligne destinés aux étudiants de niveau lycée et université. Pour accélérer notre expansion à l'échelle internationale, Mark, notre manager, nous a confié une mission clé : réaliser une analyse pré-exploratoire du jeu de données d'éducation de la Banque mondiale. Cette analyse vise à déterminer si ces données pourraient nous fournir des informations pertinentes pour guider notre projet d'expansion.
+Bienvenue dans le repository GitHub du projet d'expansion internationale de la start-up (fictive) de EdTech, nommée Academy ! L'entreprise propose des contenus de formation en ligne destinés aux étudiants de niveau lycée et université. Pour accélérer son expansion à l'échelle internationale, Mark, notre manager, nous a confié une mission clé : réaliser une analyse pré-exploratoire du jeu de données d'éducation de la Banque mondiale. Cette analyse vise à déterminer si ces données pourraient nous fournir des informations pertinentes pour guider le projet d'expansion.
 
 <br>
 
